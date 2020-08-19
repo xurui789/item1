@@ -34,5 +34,3 @@ while True:
                 continue
             print(data.decode())
             map[fd].send(b"OK")
-def lkl():
-    pass
