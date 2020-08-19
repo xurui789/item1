@@ -35,5 +35,3 @@ while True:
             print(data.decode())
             map[fd].send(b"OK")
 
-def fsdf():
-    pass
